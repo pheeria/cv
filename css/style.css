@@ -1,0 +1,35 @@
+html, body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Overpass";
+}
+
+.total-width {
+  max-width: 1400px;
+}
+
+.edu-logo-width {
+  width: 40%;
+}
+
+.photo-width {
+  width: 100%;
+}
+
+.bar-90 {
+  height: 18px;
+  width: 90%;
+}
+
+.bar-80 {
+  height: 18px;
+  width: 80%;
+}
+
+.bar-70 {
+  height: 18px;
+  width: 70%;
+}
+
+.bar-60 {
+  height: 18px;
+  width: 60%;
+}
